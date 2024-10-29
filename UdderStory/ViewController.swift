@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         print("mil design")
     }
 
-
+    override func viewDidAppear(_ animated: Bool) {
+        //
+    }
 }
 
